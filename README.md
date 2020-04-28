@@ -9,7 +9,8 @@ To predict whether a person makes over 50K a year based on his or her background
 Census Data Database of United States, 1994 [1]
 
 **Labels**
->50K, <=50K. 
+
+<=50K, >50K 
 
 **Attributes**
 
