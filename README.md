@@ -1,15 +1,18 @@
 # Income Prediction using Decision Tree
 
-## Goal
+**Goal**
+
 To predict whether a person makes over 50K a year based on his or her background
 
 **Input Data** 
+
 Census Data Database of United States, 1994 [1]
 
 **Labels**
 >50K, <=50K. 
 
 **Attributes**
+
 age: continuous. 
 workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked. 
 fnlwgt: continuous. 
