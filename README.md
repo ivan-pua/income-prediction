@@ -1,6 +1,6 @@
 # Income Prediction using Decision Tree
 
-##Goal
+## Goal
 To predict whether a person makes over 50K a year based on his or her background
 
 **Input Data** 
@@ -25,12 +25,11 @@ capital-loss: continuous.
 hours-per-week: continuous. 
 native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands. 
 
-
-##Prediction Accuracy
+## Prediction Accuracy
 0.8458 (displayed in code output)
 
 ## Decision Tree
-
+<img src="https://github.com/puaqieshang/predict_income/blob/master/decision-tree.png" width="800">
 
 
 [1] http://archive.ics.uci.edu/ml/datasets/Adult 
