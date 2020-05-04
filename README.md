@@ -19,8 +19,9 @@ age, workclass, education, education-num, marital-status, occupation, relationsh
 ## Prediction Accuracy
 0.8458 (displayed in code output)
 
-## Decision Tree
+## Decision Tree Output 
 <img src="https://github.com/puaqieshang/predict_income/blob/master/decision-tree.png" width="800">
 
+The tree is pruned in accordance to Occam's razor principle.
 
 [1] http://archive.ics.uci.edu/ml/datasets/Adult 
